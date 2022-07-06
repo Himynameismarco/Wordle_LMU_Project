@@ -1,5 +1,5 @@
 # Wordle_LMU_Project
-This was a small task for my studies. I had to implement the wordle game as a console game. 
+This was a small task for my studies. It was the first task of four in our course in the summer term 22. The class structure was given to me by my tutors, the main part was to implement some missing methods, the Game Class, the Shell Class and understand the code they had written. So that the wordle game as a console game would work. 
 
 ## Instructions to play the game
 
